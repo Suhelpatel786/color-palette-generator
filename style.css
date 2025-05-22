@@ -67,7 +67,7 @@ h1::after {
   transform: translateY(0px);
 }
 
-.pallate-container {
+.palatte-container {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
